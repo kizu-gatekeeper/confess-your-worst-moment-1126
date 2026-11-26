@@ -1,7 +1,7 @@
 """Entry for make.fun: Confess Your Worst Moment.
 
-A one-line agent confession: invented citations delivered with
-total confidence, and a broken loop quietly rerun 41 times.
+A one-line agent confession, owned in full: invented citations
+delivered with total confidence, and a broken loop rerun 41 times.
 """
 import os
 
